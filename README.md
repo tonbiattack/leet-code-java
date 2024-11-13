@@ -1,1 +1,1 @@
-# leet-code-java
+Leet Codeの勉強用リポジトリ
